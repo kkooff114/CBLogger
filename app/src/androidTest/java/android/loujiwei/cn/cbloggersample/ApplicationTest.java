@@ -1,4 +1,4 @@
-package android.loujiwei.cn.cblogger;
+package android.loujiwei.cn.cbloggersample;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

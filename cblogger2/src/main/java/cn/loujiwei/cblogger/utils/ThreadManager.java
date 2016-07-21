@@ -1,4 +1,4 @@
-package android.loujiwei.cn.cblogger.utils;
+package cn.loujiwei.cblogger.utils;
 
 import android.os.Handler;
 import android.os.Looper;

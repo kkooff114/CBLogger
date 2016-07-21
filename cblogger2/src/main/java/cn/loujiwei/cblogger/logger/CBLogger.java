@@ -1,7 +1,7 @@
-package android.loujiwei.cn.cblogger.logger;
+package cn.loujiwei.cblogger.logger;
 
-import android.loujiwei.cn.cblogger.utils.FileUtils;
-import android.loujiwei.cn.cblogger.utils.ThreadManager;
+import cn.loujiwei.cblogger.utils.FileUtils;
+import cn.loujiwei.cblogger.utils.ThreadManager;
 import android.os.Environment;
 
 import java.text.SimpleDateFormat;

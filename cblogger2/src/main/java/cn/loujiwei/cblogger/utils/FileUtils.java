@@ -1,8 +1,7 @@
-package android.loujiwei.cn.cblogger.utils;
+package cn.loujiwei.cblogger.utils;
 
 import java.io.File;
 import java.io.FileWriter;
-import java.io.IOException;
 
 /**
  * Created by LJW on 16/7/19.

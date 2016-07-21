@@ -1,8 +1,9 @@
-package android.loujiwei.cn.cblogger;
+package android.loujiwei.cn.cbloggersample;
 
-import android.loujiwei.cn.cblogger.logger.CBLogger;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
+
+import cn.loujiwei.cblogger.logger.CBLogger;
 
 public class MainActivity extends AppCompatActivity {
 
