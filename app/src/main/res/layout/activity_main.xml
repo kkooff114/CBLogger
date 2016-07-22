@@ -11,7 +11,26 @@
     tools:context="android.loujiwei.cn.cbloggersample.MainActivity">
 
     <TextView
+        android:id="@+id/tv_total_size"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!"/>
+
+    <TextView
+        android:id="@+id/tv_delet_all"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_total_size"
+        android:layout_marginTop="10dp"
+        android:text="删除所有"/>
+
+    <TextView
+        android:id="@+id/tv_delet_7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_delet_all"
+        android:layout_marginTop="10dp"
+        android:text="删除7天"/>
+
+
 </RelativeLayout>
